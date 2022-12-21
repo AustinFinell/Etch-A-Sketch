@@ -25,22 +25,24 @@ Program Description: 	Functional 512 x 512 etch-a-sketch using the bitmap displa
    
   - Have the Bitmap Display up, and enter the keys into the text box
 
-- Keys: w - up
-	a - left
-	s - down
-	d - right
-	q - up/left
-	e - up/right
-	z - down/left
-	c - down/right
-	x - clear pointer pposition
-	r - change drawing color to red
-	g - change drawing color to green
-	b - change drawing color to blue
-	o - reset board
-	y - red value up
-	h - red value down
-	u - green value up
-	j - green value down
-	i - blue value up
-	k - blue value down
+### Keys: 
+  - w - up
+  - a - left
+  - s - down
+  - d - right
+  - q - up/left
+  - e - up/right
+  - z - down/left
+  - c - down/right
+  - x - clear pointer pposition
+  - r - change drawing color to red
+  - g - change drawing color to green
+  - b - change drawing color to blue
+  - o - reset board
+  ### Frame Colors
+  - y - red value up
+  - h - red value down
+  - u - green value up
+  - j - green value down
+  - i - blue value up
+  - k - blue value down
